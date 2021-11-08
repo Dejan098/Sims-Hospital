@@ -1,0 +1,44 @@
+﻿<Page x:Class="Hospital.ViewDoctor.Operation"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Hospital.ViewDoctor"
+      mc:Ignorable="d" 
+     d:DesignHeight="768" d:DesignWidth="1024" Background="LightSkyBlue"
+      Title="ScheduleOperation">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="24*"/>
+            <ColumnDefinition Width ="auto" MinWidth="438.4"/>
+            <ColumnDefinition Width ="auto" MinWidth="505.6"/>
+            <ColumnDefinition Width="13*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="21*"/>
+            <RowDefinition Height="auto" MinHeight="574.4"/>
+            <RowDefinition Height="61*"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="1" Grid.Row="1" Content="PATIENT'S NAME:" FontWeight="DemiBold" FontSize="30" HorizontalAlignment="Left" Margin="34,31.4,0,0" VerticalAlignment="Top" Height="50" Width="369" RenderTransformOrigin="1.2,0.472"/>
+        <Label Background="White" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="34,86.4,0,0" Grid.Row="1" VerticalAlignment="Top" MinHeight="32" MinWidth="369" Height="32" Width="369"/>
+        <Label Grid.Column="1" Grid.Row="1" Content="DOCTOR:" FontWeight="DemiBold" FontSize="30" HorizontalAlignment="Left" Margin="34,123.4,0,0" VerticalAlignment="Top" Height="50" Width="369" RenderTransformOrigin="1.2,0.472"/>
+        <Label Background="White" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="34,168.4,0,0" Grid.Row="1" VerticalAlignment="Top" MinHeight="32" MinWidth="369" Height="32" Width="369"/>
+        <Label Grid.Column="2" Grid.Row="1" Content="NOTE:" FontWeight="DemiBold" FontSize="30" HorizontalAlignment="Left" Margin="9.6,31.4,0,0" VerticalAlignment="Top" Height="50" Width="359" RenderTransformOrigin="1.2,0.472"/>
+        <Label Grid.Column="2" Grid.Row="1" Content="OPERATION BEGIN TIME:" FontWeight="DemiBold" FontSize="30" HorizontalAlignment="Left" Margin="9.6,168.4,0,0" VerticalAlignment="Top" Height="50" Width="416" RenderTransformOrigin="1.2,0.472"/>
+        <Label Background="White" Content="" Grid.Column="2" HorizontalAlignment="Left" Margin="9.6,81.4,0,0" Grid.Row="1" VerticalAlignment="Top" MinHeight="32" MinWidth="369" Height="87" Width="392"/>
+        <Label Grid.Column="1" Grid.Row="1" Content="DATE OF OPERATION:" FontWeight="DemiBold" FontSize="30" HorizontalAlignment="Left" Margin="34,205.4,0,0" VerticalAlignment="Top" Height="50" Width="369" RenderTransformOrigin="1.2,0.472"/>
+        <Label Background="White" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="34,260.4,0,0" Grid.Row="1" VerticalAlignment="Top" MinHeight="32" MinWidth="369" Height="32" Width="369"/>
+        <Label Grid.Column="2" Grid.Row="1" Content="OPERATION END TIME:" FontWeight="DemiBold" FontSize="30" HorizontalAlignment="Left" Margin="9.6,275.4,0,0" VerticalAlignment="Top" Height="50" Width="416" RenderTransformOrigin="1.2,0.472"/>
+        <Label Grid.Column="1" Grid.Row="1" Content="OPERATION ROOM:" FontWeight="DemiBold" FontSize="30" HorizontalAlignment="Left" Margin="34,297.4,0,0" VerticalAlignment="Top" Height="50" Width="369" RenderTransformOrigin="1.2,0.472"/>
+        <Label Background="White" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="34,347.4,0,0" Grid.Row="1" VerticalAlignment="Top" MinHeight="32" MinWidth="369" Height="32" Width="369"/>
+
+        <Label Grid.Column="1" Grid.Row="1" Content="OPERATION ROOM &#xA;AVAILABLE:" FontWeight="DemiBold" FontSize="30" HorizontalAlignment="Left" Margin="34,406,0,0" VerticalAlignment="Top" Height="90" Width="369" RenderTransformOrigin="1.2,0.472"/>
+        <Label Background="White" Content="" Grid.Column="1" HorizontalAlignment="Left" Margin="34,501,0,0" Grid.Row="1" VerticalAlignment="Top" MinHeight="32" MinWidth="369" Height="112" Width="369" Grid.RowSpan="2"/>
+        <Button GotFocus="Color" LostFocus="ColorBack" Background="White" BorderBrush="Coral" Grid.Row="1" Grid.Column="2" Content="SCHEDULE OPERATION" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Left" Margin="13.6,443.4,0,0" VerticalAlignment="Top" Width="482" Height="53" Click="Schedule" RenderTransformOrigin="0.488,1.638"/>
+        <Button GotFocus="Color" LostFocus="ColorBack" Background="White" BorderBrush="Coral" Grid.Row="1" Grid.Column="2" Content="CANCLE" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Left" Margin="13.6,560.4,0,0" VerticalAlignment="Top" Width="482" Height="53" Click="Cancle" RenderTransformOrigin="0.488,1.638"/>
+
+        
+    </Grid>
+</Page>

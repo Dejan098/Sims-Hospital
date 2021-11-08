@@ -1,0 +1,20 @@
+﻿Hospital
+
+
+winexe
+C#
+.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\
+Hospital
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\App.xaml
+52-828147498
+
+164-1067319690
+1921654412462
+MainWindow.xaml;PatientLogin.xaml;StaffLogin.xaml;StaffLoginPage.xaml;ViewDirector\DirectorProfileView.xaml;ViewDirector\MedicationView.xaml;ViewDirector\RoomAppView.xaml;ViewDirector\RoomView.xaml;ViewDirector\StaffView.xaml;ViewDirector\SuppliesAndEquipmentView.xaml;ViewDoctor\Alternative.xaml;ViewDoctor\ChangeInformation.xaml;ViewDoctor\Checkup.xaml;ViewDoctor\DirectorHome.xaml;ViewDoctor\Examination.xaml;ViewDoctor\Feedback.xaml;ViewDoctor\File.xaml;ViewDoctor\HomePage.xaml;ViewDoctor\IllnessHistory.xaml;ViewDoctor\ListOfPatients.xaml;ViewDoctor\MedicationApproving.xaml;ViewDoctor\Notification.xaml;ViewDoctor\Operation.xaml;ViewDoctor\Prescription.xaml;ViewDoctor\Profile.xaml;ViewDoctor\ReportBug.xaml;ViewDoctor\Schedule.xaml;ViewDoctor\Specialist.xaml;ViewPatient\AppointmentsAdd.xaml;ViewPatient\FaqPatient.xaml;ViewPatient\HomePagePatient.xaml;ViewPatient\RegistrationPatient.xaml;ViewPatient\ScheduleAppointmentPatient.xaml;ViewSecretary\AppointmentsAdd.xaml;ViewSecretary\AppointmentsChangeSecretary.xaml;ViewSecretary\AppointmentsChooseSecretary.xaml;ViewSecretary\AppointmentsSecretary.xaml;ViewSecretary\AppointmentUrgentSecretary.xaml;ViewSecretary\BugsSecreatary.xaml;ViewSecretary\FaqAnswerSecretary.xaml;ViewSecretary\FaqSecretary.xaml;ViewSecretary\FeedbackSecretary.xaml;ViewSecretary\HomepageSecretary.xaml;ViewSecretary\IsAppointmentUrgentSecretary.xaml;ViewSecretary\MenuSecretary.xaml;ViewSecretary\PatientAddSecretary.xaml;ViewSecretary\PatientChangeSecretary.xaml;ViewSecretary\PatientsFilter.xaml;ViewSecretary\PatientsSecretary.xaml;ViewSecretary\PatientViewSecretary.xaml;ViewSecretary\ProfileChangeSecretary.xaml;ViewSecretary\ProfileSecretary.xaml;
+
+False
+

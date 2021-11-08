@@ -1,0 +1,34 @@
+﻿<Page x:Class="Hospital.ViewDoctor.ChangeInformation"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Hospital.ViewDoctor"
+      mc:Ignorable="d" 
+      d:DesignHeight="768" d:DesignWidth="1024" Background="LightSkyBlue"
+      Title="ChangeInformation">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="58*"></ColumnDefinition>
+            <ColumnDefinition Width ="auto" MinWidth="864"></ColumnDefinition>
+            <ColumnDefinition Width="95*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="1" Grid.Column="1" Content="NAME" FontWeight="DemiBold" FontSize="30" HorizontalAlignment="Left" Margin="10.6,1.8,0,0" VerticalAlignment="Top" Height="49" Width="177"/>
+        <TextBox Text="ime" x:Name="nameDoctor" Grid.Row="1" Grid.Column="1" FontSize="25" TextAlignment="Center" HorizontalAlignment="Left" Height="37" Margin="10.2,52.2,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="398" />
+        <Label Grid.Row="1" Grid.Column="1" Content="LAST NAME" FontWeight="DemiBold" FontSize="30" HorizontalAlignment="Left" Margin="10,142,0,0" VerticalAlignment="Top" Height="49" Width="177" RenderTransformOrigin="0.524,1.251"/>
+        <TextBox x:Name="surnameDoctor" Grid.Row="1" Grid.Column="1" FontSize="25" TextAlignment="Center" HorizontalAlignment="Left" Height="83" Margin="10,196,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="398" />
+        <Label Grid.Row="1" Grid.Column="1" Content="Username:" FontWeight="DemiBold" FontSize="30" HorizontalAlignment="Left" Margin="465,148,0,0" VerticalAlignment="Top" Height="49" Width="182" RenderTransformOrigin="0.552,-1.452"/>
+        <TextBox x:Name="usernameDoctor"  Grid.Row="1" Grid.Column="1" FontSize="25" TextAlignment="Center" HorizontalAlignment="Left" Height="75" Margin="451,197,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="398"/>
+        <Label  Grid.Column="1" Content="Address:" FontWeight="DemiBold" FontSize="30" HorizontalAlignment="Left" Margin="465.2,2.2,0,0" VerticalAlignment="Top" Height="49" Width="184" Grid.Row="1"/>
+        <TextBox x:Name="addressDoctor" Grid.Row="1" Grid.Column="1" FontSize="25" TextAlignment="Center" HorizontalAlignment="Left" Height="67" Margin="465,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="398"/>
+        <Button  GotFocus="Color" LostFocus="ColorBack" Background="White" BorderBrush="Coral" Grid.Row="1" Grid.Column="1" Content="SUBMIT" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Left" Margin="209,383,0,0" VerticalAlignment="Top" Width="394" Height="92" Click="Submit"/>
+        <Button  GotFocus="Color" LostFocus="ColorBack" Background="White" BorderBrush="Coral" Grid.Row="1" Grid.Column="1" Content="CANCLE" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Left" Margin="209,480,0,0" VerticalAlignment="Top" Width="394" Height="92" Click="Cancle"/>
+
+    </Grid>
+</Page>

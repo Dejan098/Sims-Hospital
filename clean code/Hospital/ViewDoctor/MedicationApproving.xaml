@@ -1,0 +1,48 @@
+﻿<Page x:Class="Hospital.ViewDoctor.MedicationApproving"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Hospital.ViewDoctor"
+      mc:Ignorable="d" 
+       d:DesignHeight="768" d:DesignWidth="1024" Background="LightSkyBlue"
+      Title="MedicationApproving" >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width ="auto"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <DataGrid  Grid.Row="1" Grid.Column="1" x:Name="dataGridMedication" IsReadOnly="True"
+                  SelectionMode="Single" AutoGenerateColumns="False" HorizontalAlignment="Center" 
+                  Height="500" Margin="56.8,62.6,67.8,175.8" VerticalAlignment="Center" Width="829">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Medication Name" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Code" Binding="{Binding Code}" />
+                <DataGridTemplateColumn Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button GotFocus="Color" LostFocus="ColorBack" x:Name="Approve" Click="Approve" >Approve</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="*">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button GotFocus="Color" LostFocus="ColorBack" x:Name="Decline" Click="Decline">Decline</Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Grid.Column="1" Grid.Row="1" Margin="185,591,196,124" Click="HomePageBtn">Home Page</Button>
+
+    </Grid>
+</Page>

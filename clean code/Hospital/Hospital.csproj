@@ -1,0 +1,72 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ViewSecretary\Images\addImageIcon.png" />
+    <None Remove="ViewSecretary\Images\choose.png" />
+    <None Remove="ViewSecretary\Images\closeIcon.png" />
+    <None Remove="ViewSecretary\Images\defaultIcon.png" />
+    <None Remove="ViewSecretary\Images\editIcon.png" />
+    <None Remove="ViewSecretary\Images\emailIcon.png" />
+    <None Remove="ViewSecretary\Images\filterIcon.png" />
+    <None Remove="ViewSecretary\Images\idIcon.png" />
+    <None Remove="ViewSecretary\Images\manIcon.jpg" />
+    <None Remove="ViewSecretary\Images\menuButton.png" />
+    <None Remove="ViewSecretary\Images\minusIcon.png" />
+    <None Remove="ViewSecretary\Images\mr.jpg" />
+    <None Remove="ViewSecretary\Images\passwordIcon.png" />
+    <None Remove="ViewSecretary\Images\pdfIcon.png" />
+    <None Remove="ViewSecretary\Images\phoneIcon.png" />
+    <None Remove="ViewSecretary\Images\plusIcon.jpg" />
+    <None Remove="ViewSecretary\Images\profileButton.jpg" />
+    <None Remove="ViewSecretary\Images\respondIcon.png" />
+    <None Remove="ViewSecretary\Images\searchIcon.png" />
+    <None Remove="ViewSecretary\Images\st-anthony-hosp-building-resized.jpg" />
+    <None Remove="ViewSecretary\Images\viewIcon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="ViewSecretary\Images\addImageIcon.png" />
+    <Resource Include="ViewSecretary\Images\choose.png" />
+    <Resource Include="ViewSecretary\Images\closeIcon.png" />
+    <Resource Include="ViewSecretary\Images\defaultIcon.png" />
+    <Resource Include="ViewSecretary\Images\editIcon.png" />
+    <Resource Include="ViewSecretary\Images\emailIcon.png" />
+    <Resource Include="ViewSecretary\Images\filterIcon.png" />
+    <Resource Include="ViewSecretary\Images\idIcon.png" />
+    <Resource Include="ViewSecretary\Images\manIcon.jpg" />
+    <Resource Include="ViewSecretary\Images\menuButton.png" />
+    <Resource Include="ViewSecretary\Images\minusIcon.png" />
+    <Resource Include="ViewSecretary\Images\mr.jpg" />
+    <Resource Include="ViewSecretary\Images\passwordIcon.png" />
+    <Resource Include="ViewSecretary\Images\pdfIcon.png" />
+    <Resource Include="ViewSecretary\Images\phoneIcon.png" />
+    <Resource Include="ViewSecretary\Images\plusIcon.jpg" />
+    <Resource Include="ViewSecretary\Images\profileButton.jpg" />
+    <Resource Include="ViewSecretary\Images\respondIcon.png" />
+    <Resource Include="ViewSecretary\Images\searchIcon.png" />
+    <Resource Include="ViewSecretary\Images\st-anthony-hosp-building-resized.jpg" />
+    <Resource Include="ViewSecretary\Images\viewIcon.png" />
+  </ItemGroup>
+
+</Project>

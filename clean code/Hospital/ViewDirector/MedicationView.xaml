@@ -1,0 +1,32 @@
+﻿<Page x:Class="Hospital.ViewDirector.MedicationView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Hospital.ViewDirector"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="828"
+      Title="MedicationView">
+
+    <Grid>
+        <DataGrid x:Name="Grid"  AutoGenerateColumns="False" Margin="10,25,420,242">
+
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="Id" Binding="{Binding Id}" Width="2*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Naziv" Binding="{Binding Code}" Width="2*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Naziv" Binding="{Binding Name}" Width="2*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Kolicina" Binding="{Binding Quantity}" Width="2*"></DataGridTextColumn>
+            </DataGrid.Columns>
+
+
+
+        </DataGrid>
+        <Button Margin="12,388,619,193">Delete</Button>
+        <TextBox HorizontalAlignment="Left" Margin="568,133,0,0" Text="{Binding Name1}" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="568,171,0,0" Text="{Binding Code}" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Margin="528,199,100,386" Click="Button_Click">Registruj</Button>
+        <TextBox HorizontalAlignment="Left" Margin="334,512,0,0" Text="{Binding Quantity}" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="29"/>
+        <Button Margin="484,506,237,68" Click="Button_Click_1">Poruci</Button>
+    </Grid>
+</Page>

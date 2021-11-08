@@ -1,0 +1,36 @@
+﻿<Page x:Class="Hospital.ViewDoctor.IllnessHistory"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Hospital.ViewDoctor"
+      mc:Ignorable="d" 
+      d:DesignHeight="768" d:DesignWidth="1024" Background="LightSkyBlue"
+      Title="IllnessHistory" >
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width ="auto"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0*"></RowDefinition>
+            <RowDefinition Height="auto" MinHeight="809.6"></RowDefinition>
+            <RowDefinition Height="0*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <DataGrid Grid.Row="1" Grid.Column="1" x:Name="dataGridPacijenti" IsReadOnly="True" 
+                  SelectionMode="Single" AutoGenerateColumns="False" HorizontalAlignment="Left" 
+                  Height="347" Margin="57,0,0,0" VerticalAlignment="Center" Width="829">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Medication" Binding="{Binding MedicationName}"/>
+                <DataGridTextColumn Header="Dosage" Binding="{Binding MedicationDosage}" />
+                <DataGridTextColumn Header="Anamnesis-up" Binding="{Binding Anamnesis}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Grid.Column="1" Grid.Row="1" Margin="185,636,196,124" Click="HomePageBtn">Home Page</Button>
+        <Label x:Name="name" Background="White" Grid.Column="1" HorizontalAlignment="Left" Margin="95,134,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Height="44" Width="197"/>
+        <Label x:Name="surname" Background="White" Grid.Column="1" HorizontalAlignment="Left" Margin="297,134,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Height="44" Width="197"/>
+
+    </Grid>
+</Page>

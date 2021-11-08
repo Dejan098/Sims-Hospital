@@ -1,0 +1,32 @@
+﻿<Page x:Class="Hospital.ViewDoctor.HomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Hospital.ViewDoctor"
+      mc:Ignorable="d" 
+      d:DesignHeight="768" d:DesignWidth="1024" Background="LightSkyBlue"
+      Title="HomePage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width ="auto"></ColumnDefinition>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button  GotFocus="Color" LostFocus="ColorBack" BorderBrush="Coral" Grid.Column="1" Grid.Row="1" Click="ListOfPatientsBtn" Content="LIST OF PATIENTS" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Center" Margin="182.2,38.2,193.4,0" VerticalAlignment="Top" MinWidth="432" MaxHeight="50" Width="578" Background="White" Foreground="Black" Height="65"/>
+        <Button  GotFocus="Color" LostFocus="ColorBack" BorderBrush="Coral" Grid.Column="1" Grid.Row="1" Click="ScheduleBtn" Content="SCHEDULE" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Center" Margin="182.2,108.2,193.4,0" VerticalAlignment="Top" MinWidth="432" MaxHeight="50" Width="578" Background="White" Foreground="Black" Height="65"/>
+        <Button  GotFocus="Color" LostFocus="ColorBack" BorderBrush="Coral" Grid.Column="1" Grid.Row="1" Click="MedicationBtn" Content="MEDICATION APPROVING" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Center" Margin="182.2,178.2,193.4,0" VerticalAlignment="Top" MinWidth="432" MaxHeight="50" Width="578" Background="White" Foreground="Black" Height="65"/>
+        <Button GotFocus="Color" LostFocus="ColorBack" BorderBrush="Coral" Grid.Column="1" Grid.Row="1" Click="ProfileBtn" Content="PROFILE" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Center" Margin="182.2,248.2,193.4,0" VerticalAlignment="Top" MinWidth="432" MaxHeight="50" Background="White" Foreground= "Black" Height="65" Width="578"/>
+        <Button  GotFocus="Color" LostFocus="ColorBack" BorderBrush="Coral" Grid.Column="1" Grid.Row="1" Click="NotificationBtn" Content="NOTIFICATION" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Center" Margin="182.2,318.2,193.4,0" VerticalAlignment="Top" MinWidth="432" MaxHeight="50" Width="578" Background="White" Foreground="Black" Height="65"/>
+        <!--<Button  GotFocus="Color" LostFocus="ColorBack" BorderBrush="Coral" Grid.Column="1" Grid.Row="1" Click="FeedbackBtn" Content="FEEDBACK" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Center" Margin="181.8,388.6,193.8,0" VerticalAlignment="Top" MinWidth="432" MaxHeight="50" Width="578" Background="White" Foreground="Black" Height="65"></Button>-->
+        <Button  GotFocus="Color" LostFocus="ColorBack" BorderBrush="Coral" Grid.Column="1" Grid.Row="1" Click="ReportBugBtn" Content="FEEDBACK" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Left" Margin="182,405,0,0" VerticalAlignment="Top" MinWidth="432" MaxHeight="50" Width="578" Background="White" Foreground="Black" Height="65"></Button>
+        <Button  GotFocus="Color" LostFocus="ColorBack" BorderBrush="Coral" Grid.Column="1" Grid.Row="1" Click="LogoutBtn" Content="LOGOUT" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Center" Margin="182.2,586.2,193.4,0" VerticalAlignment="Top" MinWidth="432" MaxHeight="50" Width="578" Background="White" Foreground="Black" Height="65"/>
+
+    </Grid>
+</Page>

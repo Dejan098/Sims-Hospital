@@ -1,0 +1,1052 @@
+D:\simskod\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+D:\simskod\Hospital\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\simskod\Hospital\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+D:\simskod\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+D:\simskod\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+D:\simskod\Hospital\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+D:\simskod\Hospital\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+D:\simskod\Hospital\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+D:\simskod\Hospital\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+D:\simskod\Hospital\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+D:\simskod\Hospital\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+D:\simskod\Hospital\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\simskod\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+D:\simskod\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+D:\simskod\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+D:\simskod\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+D:\simskod\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+D:\simskod\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+D:\simskod\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache
+C:\Users\Vanja\Desktop\Hospital\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\Vanja\Desktop\Hospital\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\Vanja\Desktop\Hospital\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\Vanja\Desktop\Hospital\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\Vanja\Desktop\Hospital\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\Vanja\Desktop\Hospital\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\Vanja\Desktop\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+C:\Users\Vanja\Desktop\Hospital\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Vanja\Desktop\Hospital\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Vanja\Desktop\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+C:\Users\Vanja\Desktop\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+C:\Users\Vanja\Desktop\Hospital\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Vanja\Desktop\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+C:\Users\Vanja\Desktop\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\Vanja\Desktop\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\Vanja\Desktop\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\Vanja\Desktop\Hospital\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+D:\simss\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+D:\simss\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+D:\simss\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+D:\simss\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+D:\simss\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+D:\simss\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+D:\simss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\Vanja\Desktop\SIMSPONOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache
+C:\Users\babic\Desktop\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\babic\Desktop\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\babic\Desktop\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\babic\Desktop\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\babic\Desktop\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\babic\Desktop\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\babic\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\Vanja\Desktop\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\Vanja\Desktop\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\Vanja\Desktop\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\Vanja\Desktop\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\Vanja\Desktop\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\Vanja\Desktop\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.g.cs
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationView.g.cs
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.baml
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationView.baml
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\Vanja\Desktop\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+D:\simsss\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+D:\simsss\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+D:\simsss\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+D:\simsss\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+D:\simsss\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+D:\simsss\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.g.cs
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationView.g.cs
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.baml
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationView.baml
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+D:\simsss\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.g.cs
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationView.g.cs
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.baml
+C:\Users\Vanja\Desktop\SIMSNOVO\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationView.baml
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationView.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.baml
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.baml
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.baml
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.baml
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.baml
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationView.baml
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.baml
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.baml
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.baml
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.baml
+C:\Users\babic\Desktop\IN\SIMS\Doktor UC\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationView.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationView.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache
+<<<<<<< HEAD
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.baml
+=======
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationView.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationView.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.baml
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache
+>>>>>>> doctor
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.g.cs
+C:\Users\babic\Desktop\simsprojekat\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.baml
+>>>>>>> patient
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.baml
+D:\simsKonacni\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+D:\simsKonacni\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+D:\simsKonacni\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+D:\simsKonacni\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+D:\simsKonacni\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+D:\simsKonacni\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.baml
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.g.cs
+D:\simsKonacni\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.baml
+>>>>>>> eea6edd78bbb47372e0e28261ed2286b253f4be5
+>>>>>>> 1f75efeee6ddd5eb9ecd9bb41a8aa4230c016065
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.baml
+>>>>>>> 19e6031fafe46aa6e5f74a77e004a5f1c115d188
+>>>>>>> master
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+D:\SIMS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+D:\SIMS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+D:\SIMS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+D:\SIMS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+D:\SIMS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+D:\SIMS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache
+>>>>>>> 758bf7276cd1e418022dbc7620c6780654c369d1
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\MenuSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\MenuSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqAnswerSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqAnswerSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientAddSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientAddSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientViewSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientViewSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientChangeSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientChangeSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsFilter.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsFilter.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileSecretary.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\SuppliesAndEquipmentView.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\SuppliesAndEquipmentView.baml
+>>>>>>> director
+>>>>>>> be6ecf4641abfbbcf8e1caf83cecedf47e7e8b48
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\SuppliesAndEquipmentView.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\SuppliesAndEquipmentView.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsSecretary.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqAnswerSecretary.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqSecretary.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\MenuSecretary.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientAddSecretary.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientChangeSecretary.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsFilter.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsSecretary.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientViewSecretary.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileSecretary.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsSecretary.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqAnswerSecretary.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqSecretary.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\MenuSecretary.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientAddSecretary.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientChangeSecretary.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsFilter.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsSecretary.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientViewSecretary.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileSecretary.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\SuppliesAndEquipmentView.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqAnswerSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\MenuSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientAddSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientChangeSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsFilter.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientViewSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\SuppliesAndEquipmentView.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsSecretary.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqAnswerSecretary.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqSecretary.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\MenuSecretary.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientAddSecretary.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientChangeSecretary.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsFilter.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsSecretary.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientViewSecretary.baml
+C:\Users\babic\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileSecretary.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\SuppliesAndEquipmentView.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqAnswerSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\MenuSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientAddSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientChangeSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsFilter.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientViewSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\SuppliesAndEquipmentView.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsSecretary.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqAnswerSecretary.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqSecretary.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\MenuSecretary.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientAddSecretary.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientChangeSecretary.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsFilter.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsSecretary.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientViewSecretary.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileSecretary.baml
+>>>>>>> 53903b6994b2a3d6e7a7bfa1ce8909de758386c7
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\SuppliesAndEquipmentView.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqAnswerSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\MenuSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientAddSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientChangeSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsFilter.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientViewSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileSecretary.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\SuppliesAndEquipmentView.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsSecretary.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqAnswerSecretary.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqSecretary.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\MenuSecretary.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientAddSecretary.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientChangeSecretary.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsFilter.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsSecretary.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientViewSecretary.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileSecretary.baml
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\babic\Desktop\SIMSSSSSSSSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache
+>>>>>>> b3d68b26c9d25bad2f7a5351718fb2c2b1ed8586
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\Staff.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\StaffView.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\StaffView.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\DirectorProfileView.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\DirectorProfileView.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomView.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomView.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsAdd.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsAdd.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsChooseSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsChooseSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FeedbackSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FeedbackSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\BugsSecreatary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\BugsSecreatary.baml
+>>>>>>> ssecretary
+>>>>>>> f0cb3ab6e38adb6960026eff89cb3a903d44b368
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsAdd.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsChooseSecretary.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\BugsSecreatary.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FeedbackSecretary.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsAdd.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsChooseSecretary.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\BugsSecreatary.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FeedbackSecretary.baml
+>>>>>>> doctor2
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csprojAssemblyReference.cache
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\DirectorProfileView.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomView.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\StaffView.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\SuppliesAndEquipmentView.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsAdd.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsChooseSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\BugsSecreatary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqAnswerSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FeedbackSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\MenuSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientAddSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientChangeSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsFilter.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientViewSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.cache
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital_MarkupCompile.lref
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\PatientLogin.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLogin.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\StaffLoginPage.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\DirectorProfileView.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\MedicationView.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomView.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\StaffView.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\SuppliesAndEquipmentView.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Alternative.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ChangeInformation.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Checkup.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\DirectorHome.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Examination.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Feedback.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\File.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\HomePage.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\IllnessHistory.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ListOfPatients.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\MedicationApproving.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Notification.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Operation.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Prescription.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Profile.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\ReportBug.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Schedule.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDoctor\Specialist.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\FaqPatient.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\HomePagePatient.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\RegistrationPatient.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsAdd.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsChooseSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\BugsSecreatary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqAnswerSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FaqSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FeedbackSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\HomepageSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\MenuSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientAddSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientChangeSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsFilter.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientsSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\PatientViewSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.g.resources
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.Properties.Resources.resources
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.GenerateResource.cache
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\DirectorProfileView.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomView.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\StaffView.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\DirectorProfileView.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomView.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\StaffView.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentUrgentSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\IsAppointmentUrgentSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentUrgentSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\IsAppointmentUrgentSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileChangeSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileChangeSecretary.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsChangeSecretary.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsChangeSecretary.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomAppView.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomAppView.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\DirectorProfileView.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomView.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\StaffView.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsAdd.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsChooseSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\BugsSecreatary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FeedbackSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\DirectorProfileView.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomView.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\StaffView.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsAdd.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsChooseSecretary.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\BugsSecreatary.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\FeedbackSecretary.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\AppointmentsAdd.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ScheduleAppointmentPatient.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\AppointmentsAdd.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ScheduleAppointmentPatient.baml
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\AppointmentsAdd.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\AppointmentsChooseSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\AppointmentsSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\BugsSecreatary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\FaqAnswerSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\FaqSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\FeedbackSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\HomepageSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\MenuSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\PatientAddSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\PatientChangeSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\PatientsFilter.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\PatientsSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\PatientViewSecretary.g.cs
+C:\Users\Hp EliteBook 840 G1\Desktop\sims\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ViewSecretary\ProfileSecretary.g.cs
+>>>>>>> 4b8cd03e7af4a63656524bd04249720c2170218a
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\AppointmentsAdd.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ScheduleAppointmentPatient.g.cs
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\AppointmentsAdd.baml
+C:\Users\Vanja\Desktop\SIMSSSS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ScheduleAppointmentPatient.baml
+>>>>>>> 3defc9b74cfef163b27546b5e162cdcdbef153b1
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomAppView.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\AppointmentsAdd.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ScheduleAppointmentPatient.g.cs
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomAppView.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\AppointmentsAdd.baml
+D:\SIMS\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ScheduleAppointmentPatient.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomAppView.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\AppointmentsAdd.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ScheduleAppointmentPatient.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsChangeSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentUrgentSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\IsAppointmentUrgentSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileChangeSecretary.g.cs
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewDirector\RoomAppView.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\AppointmentsAdd.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewPatient\ScheduleAppointmentPatient.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentsChangeSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\AppointmentUrgentSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\IsAppointmentUrgentSecretary.baml
+C:\Users\babic\Desktop\sims projekatipo\clean code\Hospital\obj\Debug\netcoreapp3.1\ViewSecretary\ProfileChangeSecretary.baml

@@ -1,0 +1,31 @@
+﻿<Page x:Class="Hospital.ViewDoctor.Examination"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Hospital.ViewDoctor"
+      mc:Ignorable="d" 
+      d:DesignHeight="768" d:DesignWidth="1024" Background="LightSkyBlue"
+      Title="Examination">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="13*"></ColumnDefinition>
+            <ColumnDefinition Width ="auto" MinWidth="953.6"></ColumnDefinition>
+            <ColumnDefinition Width="19*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20*"></RowDefinition>
+            <RowDefinition Height="auto" MinHeight="652"></RowDefinition>
+            <RowDefinition Height="23*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="1" Grid.Column="1" Content="ANAMNESIS:" FontWeight="DemiBold" FontSize="30" HorizontalAlignment="Left" Margin="10.4,30,0,0" VerticalAlignment="Top" Height="49" Width="210"/>
+        <TextBox x:Name="anamnesis" Grid.Column="1" Background="White" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="202,10,0,0" Height="100" Width="741" Grid.Row="1"/>
+        <Button  GotFocus="Color" LostFocus="ColorBack" Background="White" BorderBrush="Coral" Grid.Row="1" Grid.Column="1" Content="PRESCRIPTION" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Left" Margin="259.4,165,0,0" VerticalAlignment="Top" Width="415" Height="77" Click="Prescription"/>
+        <Button  GotFocus="Color" LostFocus="ColorBack" Background="White" BorderBrush="Coral" Grid.Row="1" Grid.Column="1" Content="CHECK-UP" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Left" Margin="259.4,247,0,0" VerticalAlignment="Top" Width="415" Height="71" Click="Checkup"/>
+        <Button  GotFocus="Color" LostFocus="ColorBack" Background="White" BorderBrush="Coral" Grid.Row="1" Content="REFER TO SPECIALIST" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Left" Margin="259.4,323,0,0" VerticalAlignment="Top" Width="415" Height="65" Click="Specialist" RenderTransformOrigin="1.383,-0.396" Grid.Column="1"/>
+        <Button  GotFocus="Color" LostFocus="ColorBack" Background="White" BorderBrush="Coral" Grid.Row="1" Grid.Column="1" Content="SUBMIT" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Left" Margin="259.4,457,0,0" VerticalAlignment="Top" Width="415" Height="65" Click="File" RenderTransformOrigin="0.488,1.638"/>
+        <Button  GotFocus="Color" LostFocus="ColorBack" Background="White" BorderBrush="Coral" Grid.Row="1" Grid.Column="1" Content="BACK TO FILE" FontWeight="DemiBold" FontSize="22" HorizontalAlignment="Left" Margin="259.4,527,0,0" VerticalAlignment="Top" Width="415" Height="53" Click="Back"></Button>
+
+    </Grid>
+</Page>

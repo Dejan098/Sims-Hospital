@@ -1,0 +1,48 @@
+﻿<Page x:Class="Hospital.ViewDirector.RoomView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Hospital.ViewDirector"
+      mc:Ignorable="d" 
+      d:DesignHeight="615" d:DesignWidth="828"
+      Title="RoomView">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <DataGrid AutoGenerateColumns="False" x:Name="Grid" Grid.Row="2" Grid.ColumnSpan="2" Margin="85,0,191,38" Grid.RowSpan="3">
+            <DataGrid.Columns>
+                <DataGridTextColumn  Header="Id" Binding="{Binding Id}"></DataGridTextColumn>
+                <DataGridTextColumn  Header="Type" Binding="{Binding Type}"></DataGridTextColumn>
+                <DataGridTemplateColumn Width="*">
+                <DataGridTemplateColumn.CellTemplate>
+                    <DataTemplate>
+                        <Button x:Name="Room" Click="BtnRoomApp" >Pregled</Button>
+                    </DataTemplate>
+                </DataGridTemplateColumn.CellTemplate>
+            </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DatePicker x:Name="Date1" Text="{Binding BeginDate}" Grid.ColumnSpan="2" Grid.Column="1" Margin="174,0,102,76" Grid.RowSpan="2" Grid.Row="3"></DatePicker>
+        <DatePicker x:Name="Date2" Text="{Binding EndDate}" Grid.ColumnSpan="2" Grid.Column="1" Margin="174,67,102,39" Grid.RowSpan="2" Grid.Row="1"></DatePicker>
+        <Button Grid.Column="1" Content="Zakazi Renovaciju" Margin="225,49,189,76" Grid.Row="3" Grid.ColumnSpan="2" Grid.RowSpan="2" Click="Button_Click"/>
+
+    </Grid>
+</Page>

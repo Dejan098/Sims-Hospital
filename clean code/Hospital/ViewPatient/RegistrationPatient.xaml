@@ -1,0 +1,30 @@
+﻿<Window x:Class="Hospital.ViewPatient.RegistrationPatient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hospital.ViewPatient"
+        mc:Ignorable="d"
+        Title="RegistrationPatient" Height="800" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Grid.Column="0" Content="Registracija" HorizontalAlignment="Center" />
+        <TextBox Grid.Column="0" Grid.Row="0" x:Name="Name"  Text="{Binding Name1}" TextWrapping="Wrap" Width="120" Margin="123,89,557,311"/>
+        <TextBox Grid.Column="0" Grid.Row="0" x:Name="Surname" Text="{Binding Surname1}" TextWrapping="Wrap" Width="120" Margin="123,167,557,233"/>
+        <TextBox Grid.Column="0" Grid.Row="0" x:Name="JMBG" Text="{Binding Jmbg1}" TextWrapping="Wrap" Width="120" Margin="123,236,557,164"/>
+        <TextBox Grid.Column="0" Grid.Row="0" x:Name="Adress"  Text="{Binding Adrdess1}" TextWrapping="Wrap" Width="120" Margin="123,306,557,94"/>
+        <TextBox Grid.Column="0" Grid.Row="0" x:Name="PhoneNumber" Text="{Binding PhoneNumber1}" TextWrapping="Wrap" Width="120" Margin="365,89,315,311" RenderTransformOrigin="0.239,0.481"/>
+        <TextBox Grid.Column="0" Grid.Row="0" x:Name="Username" Text="{Binding Username1}" TextWrapping="Wrap" Width="120" Margin="365,167,315,233"/>
+        <TextBox Grid.Column="0" Grid.Row="0" x:Name="Password" Text="{Binding Password1}" TextWrapping="Wrap" Width="120" Margin="365,236,315,164"/>
+        <Button  Grid.Column="0" Grid.Row="0" Content="Confirm" x:Name="Register" HorizontalAlignment="Left" Margin="402,315,0,0" VerticalAlignment="Top" Click="Register_Click"/>
+
+
+    </Grid>
+</Window>
